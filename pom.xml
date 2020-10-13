@@ -25,7 +25,7 @@
         <!-- mysql的驱动包版本 -->
         <mysql.version>5.1.47</mysql.version>
         <!-- junit的版本 -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!-- lombok的版本 -->
         <lombok.version>1.16.18</lombok.version>
     </properties>
